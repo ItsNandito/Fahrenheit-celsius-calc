@@ -1,0 +1,69 @@
+body {
+    background-color: rgb(247, 237, 224);
+    
+}
+header nav{
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+}
+
+header a {
+    padding:3em;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: rgb(168, 168, 168);
+}
+
+header h1 {
+    display: flex;
+    justify-content: center;
+}
+main {
+    display: flex;
+    justify-content: center;
+    font-weight: 800;
+    font-size: larger;
+
+}
+#indexmain {
+    display: block;
+    padding: 2em;
+    justify-content: center;
+
+}
+section {
+    background-color: azure;
+    padding: 2em;
+    border-radius: 5%;
+    outline: 2px solid black;
+}
+#fInput {
+    margin-left: 3.5em;
+}
+
+#cInput {
+    margin-left: 2.5em;
+}
+#cbutton {
+    margin-left: 6.8em;
+    margin-top: 1em;
+}
+
+#fbutton {
+    margin-left: 8em;
+    margin-top: 1em;
+}
+
+#outputCelsius {
+    margin-left: 1.3em;
+}
+
+#outputFahrenheight {
+    margin-left: 1.3em;
+}
