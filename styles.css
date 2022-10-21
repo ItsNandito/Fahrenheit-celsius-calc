@@ -34,11 +34,11 @@ main {
 #indexmain {
     display: block;
     padding: 2em;
-    justify-content: center;
+    
 
 }
 section {
-    background-color: azure;
+    background-color: rgb(245, 251, 251);
     padding: 2em;
     border-radius: 5%;
     outline: 2px solid black;
